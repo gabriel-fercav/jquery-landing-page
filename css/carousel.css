@@ -8,3 +8,16 @@
   color: #606877;
   line-height: 20px;
 }
+
+.carousel-container {
+  flex-shrink: 1; /* já colocou inline, mas pode reforçar */
+  min-width: 0; /* permite que o flex encolha */
+}
+
+.carousel-container img.flex-grow-1 {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0; /* essa é a chave */
+  height: auto;
+  object-fit: cover; /* mantém a proporção e não quebra o layout */
+}
