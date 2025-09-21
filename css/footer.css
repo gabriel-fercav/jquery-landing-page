@@ -1,0 +1,15 @@
+.footer {
+  /* height: 670px; */
+  background-color: #f5f5f5;
+  padding: 40px 80px;
+  padding-bottom: 0px;
+}
+
+.footer-row {
+  width: 1259px;
+}
+
+.footer-list {
+  width: 100%;
+  max-width: 177px;
+}

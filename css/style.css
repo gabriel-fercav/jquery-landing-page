@@ -1,0 +1,57 @@
+body {
+  background-color: #ffffff !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p {
+  font-family: Arial, sans-serif;
+}
+
+.container,
+.row {
+  background-color: transparent !important;
+}
+
+.no-border {
+  border: none !important;
+}
+
+.grey-border {
+  border-bottom: 1px solid #ededed !important;
+}
+
+.strong-border {
+  border-bottom: 1px solid #d5d5d5 !important;
+}
+
+.text-muted {
+  color: ##606877 !important;
+}
+
+.text-black {
+  color: #343a45 !important;
+}
+
+.fs-7 {
+  font-size: 14px !important;
+}
+
+.fs-8 {
+  font-size: 12px !important;
+}
+
+.fs-20 {
+  font-size: 20px !important;
+}
+
+.fs-24 {
+  font-size: 24px !important;
+}
+
+.line-height-small {
+  line-height: 22px !important;
+}

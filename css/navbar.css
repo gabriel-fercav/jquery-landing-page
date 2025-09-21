@@ -1,0 +1,25 @@
+.navbar {
+  height: 77px;
+  background-color: #ffffff !important;
+}
+
+.navbar-nav .nav-link {
+  color: #000;
+  font-size: 16px;
+}
+
+.nav-border {
+  border-bottom: 1px solid #ededed;
+}
+
+.navbar-wrapper {
+  padding: 0 50px 0 111px;
+}
+
+.rightside-icons {
+  width: 136px;
+}
+
+.leftside-icons {
+  width: 489px;
+}

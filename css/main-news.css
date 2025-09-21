@@ -1,0 +1,40 @@
+.news-badge {
+  font-size: 16px !important;
+  background: #7d2094;
+  padding: 9px 16px;
+  font-size: 14px;
+  border-radius: 70px;
+}
+
+.news-badge.yellow {
+  background: #c5be0a;
+}
+
+.main-padding {
+  padding: 40px 27px 40px 4%;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.small-card {
+  width: auto;
+  height: 445px;
+  min-height: 405px;
+  border-radius: 12px;
+}
+
+.small-card-title {
+  height: 58px;
+}
+
+@media (max-width: 1500px) {
+  .small-card-text {
+    max-height: 70px;
+  }
+}

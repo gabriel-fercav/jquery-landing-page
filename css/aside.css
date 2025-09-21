@@ -1,0 +1,38 @@
+.aside {
+  display: flex;
+  width: 100%;
+  max-width: 533px;
+  min-width: 333px;
+  background-color: #f5f5f5;
+  padding: 24px;
+  border-radius: 16px;
+  box-sizing: border-box;
+}
+
+.aside-date {
+  height: 25px;
+}
+
+.third-aside {
+  padding-bottom: 0;
+}
+
+.aside-item {
+  height: 60px;
+  border-bottom: 1px solid #ededed;
+}
+
+.aside-item-jobs {
+  height: 100px;
+  width: 100%;
+  border-bottom: 1px solid #ededed;
+}
+
+.aside-items-jobs-title {
+  max-width: 256px;
+  color: #868aa2;
+}
+
+.aside-btn {
+  height: 46px;
+}
